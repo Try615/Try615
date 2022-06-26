@@ -6,7 +6,7 @@
 
 << Working In Progress >>  
 Private Repo 잔디 반영 옵션을 몰랐다..  
-
+SSAFY 기간은 GitLab 사용.
 
 <!---
 Try615/Try615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
