@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 << Working In Progress >>  
+Private Repo 잔디 반영 옵션을 몰랐다..  
 
 
 <!---
