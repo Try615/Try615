@@ -50,10 +50,16 @@ E-mail : try615@naver.com
 
 <br/>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=try615&show_icons=true&theme=dark)  
+  
+<br/>
+  
 < SSAFY 기간(2021년도) 프로젝트는 SSAFY GitLab 사용. >  
+  
+<img width="80%" src="https://user-images.githubusercontent.com/5960472/133071560-c39ce3ae-9558-43b8-9a0b-a1ffa65935ad.JPG">  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=try615&show_icons=true&theme=dark)
+<img width="80%" src="https://user-images.githubusercontent.com/5960472/176142525-f643ca04-fb3e-425c-914f-05d04ad12e9f.png">  
+
 
 <!---
 Try615/Try615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
