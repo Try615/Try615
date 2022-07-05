@@ -57,7 +57,7 @@ E-mail : try615@naver.com
   
 < SSAFY 기간(2021년도) 프로젝트는 SSAFY GitLab 사용. >  
   
-<img width="80%" src="https://user-images.githubusercontent.com/5960472/133071560-c39ce3ae-9558-43b8-9a0b-a1ffa65935ad.JPG">  
+<img width="80%" src="https://user-images.githubusercontent.com/5960472/177321909-115b50ea-9051-46ad-89ff-00edf28b62b2.JPG">  
 
 <img width="80%" src="https://user-images.githubusercontent.com/5960472/176142525-f643ca04-fb3e-425c-914f-05d04ad12e9f.png">  
 
