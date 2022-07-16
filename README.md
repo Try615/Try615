@@ -49,6 +49,12 @@ E-mail : try615@naver.com
 미적 감각을 던져버린 백엔드 개발자  
 의류보다 전자기기가 더 좋은 개발자  
 
+<br>
+  
+<img width="50%" src="https://user-images.githubusercontent.com/5960472/179349217-c3fc3435-4385-42a4-b7ff-258756c2cb87.png">
+
+*네이버 부스트캠프 7기 챌린지 진행 중.*    
+
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=try615&show_icons=true&theme=dark)  
