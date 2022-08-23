@@ -49,6 +49,8 @@ E-mail : try615@naver.com
 미적 감각을 던져버린 백엔드 개발자  
 의류보다 전자기기가 더 좋은 개발자  
 
+Private Repo : 강의 등 저작권 관련 내용이 함유된 것  
+
 <br>
   
 <img width="50%" src="https://user-images.githubusercontent.com/5960472/179349217-c3fc3435-4385-42a4-b7ff-258756c2cb87.png">
