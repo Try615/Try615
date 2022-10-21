@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Sungchul's%20Git&fontSize=90)  
 
 ### 안녕하세요.    
-### 백엔드 개발자(지망) 박성철입니다.   
+### 백엔드 개발자(지망) OOO입니다.
 
 E-mail : try615@naver.com
 
